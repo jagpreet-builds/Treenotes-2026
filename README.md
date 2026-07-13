@@ -56,7 +56,7 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/jagpreet_builds/Treenotes-2026.git
+git clone https://github.com/jagpreet-builds/Treenotes-2026.git
 ```
 
 Open the project folder:
